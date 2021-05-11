@@ -35,5 +35,5 @@ Hi, I'm Mudit Aggarwal (alias mmudit01) a CODING FREAK. I am an App Developer ðŸ
 
 
 
-  ![mmudit01's github stats](https://github-readme-stats.vercel.app/api?username=mmudit01&show_icons=true&theme=tokyonight)
+  ![mmudit01's github stats](https://github-readme-stats.vercel.app/api?username=mmudit01&show_icons=true&theme=tokyonight&locale=en&count_private=true%22%20alt=%22mmudit01)
   
