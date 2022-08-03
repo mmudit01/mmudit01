@@ -24,8 +24,6 @@ Hi, I'm Mudit Aggarwal (alias mmudit01) a CODING FREAK. I am an App Developer �
 - 📫 How to reach me: mmudit01@gmail.com
 - ⚡ Fun fact: I love to travel specially on bikes
 
-My Wesite
-
 <br>
 <br>
 
